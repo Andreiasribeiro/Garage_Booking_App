@@ -1,0 +1,55 @@
+.containerser{
+    display: flex;
+}
+.smallimg{
+    width: 20rem;
+    height: 13.75rem;
+    border-radius: 5px;
+}
+
+.serv-container {
+    display: flex;
+   
+   
+}
+
+.col-md-7 p{
+    color: white;
+}
+.bt-view {
+    border: 0.125rem solid #FFF629;
+    border-radius: 1.8rem;
+    background: #000000;
+    opacity: 80%;
+    width:10em;
+    height: 3.75em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 1.5rem;
+    color: white;
+    margin: 1em;
+    
+   
+    
+}
+.bt-view:hover {
+    background: #FFF629;
+    color: #000000;
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+}
+
+.box-view{
+    display: block;
+    padding: 1em;
+     
+    
+}
+
+@media (max-width: 990px) {
+
+    .smallimg{
+        display: none;
+    }
+    
+}

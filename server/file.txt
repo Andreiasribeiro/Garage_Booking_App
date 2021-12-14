@@ -1,0 +1,54 @@
+A/C Compressor
+Air Filter
+Alternator
+Axle
+Battery
+Bonnet 
+Boot 
+Brake light
+Brakes
+Bumper
+Car Jack
+Catalytic Converter
+Clutch
+Disk Brakes
+Distributor
+Door
+Door handle
+Engine
+Engine Fan
+Engine Starter
+Front Axle
+Front Steering
+Fuel Injector
+Fuel Tank
+Headlight
+Hubcap
+License plate
+Mirror
+Muffler
+Oxygen Sensor
+Petrol tank 
+Piston
+Power Steering Fluid
+Radiator
+Radiator
+Rear Axle
+Rear Suspension
+Rear-view mirror
+Roof
+Shock Absorbers
+Silencer
+Spare Tire
+Spark Plugs
+Suspension
+Tailpipe
+Transmission
+Ture Pressure Gauge
+Turn signal/ Blinker
+Tyre 
+Window
+windscreen 
+Windscreen wiper 
+
+

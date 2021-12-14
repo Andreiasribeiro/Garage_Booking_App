@@ -1,0 +1,66 @@
+/*====== finalproject_cct - Andréia Sales Ribeiro ======*/
+.my-footer {
+    display: flex;
+    justify-content: center;
+    color: white;
+    background:  #000000 url('./../assets/bg6.jpg');
+    background-blend-mode: screen;
+    background-size: cover;
+    background-position: 100%;
+
+}
+
+.ajuda{
+    display: flex;
+}
+.my-footer a{
+    text-decoration: none;
+    color: white;
+}
+.my-footer a:hover {
+    color: #FFF629;
+}
+
+.footer-info {
+    width: 16.8125em;
+    background-color:#000000 ;
+    opacity: 75%;
+    border-radius: 20px;
+    margin-top: 20px;
+   
+    
+}
+
+.footer-midias {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000000;
+    color: white;
+    height:6em;
+    justify-content: space-between;
+    padding-left: 17%;
+    padding-right: 13%;
+    
+}
+
+.icon-img {
+    width: 3em;
+}
+
+.logo-img {
+    width:4em;
+    margin-top: 10px;
+}
+
+@media (max-width: 990px) {
+    .footer-midias{
+        display: block;
+    }
+
+ 
+    .ajuda {
+        display: block;
+        justify-content: center;
+    }
+}

@@ -1,0 +1,136 @@
+/*====== finalproject_cct - Andréia Sales Ribeiro ======*/
+
+
+.top-bg-container3 {
+    height: 100vh;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    right: 0;
+    z-index: -1;
+    background: url('./../assets/bg4.jpg');
+    background-blend-mode: screen;
+    background-size: cover;
+    background-position: 100%;
+    height: 100vh;
+   
+    
+}
+.container3 {
+    margin: 0 1em;
+    position: relative;
+}
+
+
+
+.content3 {
+    text-align: left;
+    margin: 8em 3em 0;
+    height: 75vh;
+}
+
+h1 {
+    font-size: 3rem;
+    line-height: 92%;
+   
+}
+
+.title-form2 {
+position: absolute;
+bottom: 76%;
+left: 55%;
+}
+
+.title-form2 h1 {
+    color: white;
+}
+.input-form2 {
+    width:30em;
+    position: absolute;
+    bottom: 15%;
+    left: 55%;
+}
+
+.register-btn{
+    position: absolute;
+    bottom: 0%;
+    left: 55%;
+}
+.register-btn a{
+    color: white;
+    text-decoration: none;
+  
+}
+
+.register-btn a:hover{
+    color: #FFF629;
+    cursor: pointer;
+    outline: none;
+   
+}
+
+.btn-register{
+   border: 0.125rem solid #FFF629;
+   border-radius: 1.8rem;
+   background: #000000;
+   opacity: 80%;
+   width:10em;
+   height: 3.75em;
+   font-family: 'Roboto', sans-serif;
+   font-weight: 1.5rem;
+   color: white; 
+   margin-bottom: 10px;
+}
+.button-container{
+    position: absolute;
+    bottom: 20%;
+    left: 7%;
+}
+
+
+
+.btn-register:hover {
+    background: #FFF629;
+    color: #000000;
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+}
+
+@media (max-width: 990px) {
+  
+    .title-form2 {
+        width:80%;
+        position: absolute;
+        bottom: 77%;
+        left: 12%;
+       
+        
+      
+        }
+        .input-form2 {
+            width:100%;
+            position: absolute;
+            bottom: 15%;
+            left: 12%;
+           
+        }
+        .register-btn{
+            bottom: 0%;
+            left: 12%;
+           
+        }
+
+        .top-bg-container3 {
+          
+            background: #000000 url('./../assets/bg9.jpg');
+            opacity: 10%;
+            background-blend-mode: screen;
+            background-size: cover;
+            background-position: 100%;
+            height: 100vh;
+           
+            
+        }
+       
+}
